@@ -1,1 +1,1 @@
-# Hello Gitgit init
+Hello from a feature branch!
